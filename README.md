@@ -1,36 +1,43 @@
-# Hey, I'm Aaryan 👋
 
-### 💻 About Me
-- Second-year Engineering Student
-- Learning AI/ML & Development
-- Passionate about building and improving every day
+<h1 align="center">Hi 👋, I'm Aaryan</h1>
+<h3 align="center">Engineering Student • AI/ML Learner • Developer</h3>
 
 ---
 
-### 🚀 Currently Working On
+### 👨‍💻 About Me
+- 🎓 Third-year Engineering Student
+- 🌱 Currently learning **Machine Learning & Development**
+- 💡 Interested in AI, problem solving, and building projects
+- 🚀 Working on improving my development skills every day
+
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" />
+</p>
+
+---
+
+### 📌 Current Focus
 - Machine Learning
 - Python Projects
-- Strengthening DSA & Problem Solving
-- Exploring Web Development
+- DSA & Problem Solving
+- Open Source Learning
 
 ---
 
-### 🛠 Tools & Technologies
-- Python
-- C
-- Git & GitHub
-- VS Code
-
----
-
-### 📫 Reach Me
+### 📫 Connect With Me
 - GitHub: github.com/MAVRYAN
-- LinkedIn: https://www.linkedin.com/in/aaryan-chauhan3/
-- Email: aaryanxchauhan@gmail.com
+- LinkedIn: your-link
+- Email: your-email
 
 ---
 
-                                                not at my peak yet — that’s the scary part.
+<p align="center">
+  <i>"Learning in silence, building with consistency."</i>
+</p>
+
 
 
 
