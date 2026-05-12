@@ -29,8 +29,8 @@
 
 ### 📫 Connect With Me
 - GitHub: github.com/MAVRYAN
-- LinkedIn: your-link
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/aaryan-chauhan3/
+- Email: aaryanxchauhan@gmail.com
 
 ---
 
