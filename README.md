@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <i>"Learning in silence, building with consistency."</i>
+  <i>"Not at my Peak yet — That’s the Scary Part."</i>
 </p>
 
 
